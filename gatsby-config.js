@@ -17,10 +17,9 @@ try {
 
 module.exports = {
   siteMetadata: {
-    title: 'GCN',
-    description:
-      'A starter template to build amazing static websites with Gatsby, Contentful and Netlify',
-    siteUrl: 'https://gcn.netlify.com',
+    title: 'Skrinspire',
+    description: 'A personal blog written by Patrick Skrine',
+    siteUrl: 'https://patrickskrine.com',
     image: '/images/share.jpg',
     menuLinks: [
       {
